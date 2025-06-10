@@ -6,8 +6,8 @@ A documentation on how to be able to write SQL on Android phone or tablet with T
 Download Termux from **F DROID**
 
 run: 
-pgk update
-pgk upgrade
+pkg update
+pkg upgrade
 
 ## Installing Mariadb IN Termux
 In Termux run:
